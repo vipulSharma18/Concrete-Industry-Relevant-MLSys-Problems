@@ -29,3 +29,4 @@ Hardware-efficient, Sparse, Compact, and Linear Attention, https://pytorch.org/b
     > GitHub: https://github.com/ROCm/iris     
 - [ ] JaneStreet GPU Mode Hackathon for optimizing sequence models. Optimize Mamba2, RetNet, Hawk, and xLSTM: https://github.com/janestreet-gpu-mode/hackathon
 - [ ] Train video models in a single day, new edition: https://arxiv.org/abs/2309.16669. Repo tracking this work: https://github.com/vipulSharma18/we-have-video-models-at-home
+- [ ] Sharpen quantization skills with Unsloth puzzles. They were good enough to be used for hiring: https://colab.research.google.com/drive/1JqKqA1XWeLHvnYAc0wzrR4JBCnq43HyH?usp=sharing
